@@ -1,3 +1,9 @@
+### Githubの設定を確認
+
+git config -l
+
+git config --global -l 
+
 
 
 ### Githubのプロキシ設定

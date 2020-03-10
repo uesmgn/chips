@@ -2,9 +2,9 @@
 
 ### Githubのプロキシ設定
 
-git config --add http.proxy http://proxy.nagaokaut,ac.jp:8080
+git config --add http.proxy [YOUR_PROXY_SETTING]
 
-git config --global --add credential.github.com.httpproxy http://proxy.nagaokaut,ac.jp:8080
+git config --global --add credential.github.com.httpproxy [YOUR_PROXY_SETTING]
 
 
 

@@ -1,5 +1,16 @@
 # chips
-memo and refenrence of daily coding activity 
+
+memo
 ---
 
-[Githubのプロキシ設定](github_proxy.md)
+[Githubのプロキシ設定](memo/github_proxy.md)
+
+
+
+## mathmatic
+
+[ELBO, KL-divergence](math/elbo_kl.md)
+
+
+
+
